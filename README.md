@@ -10,7 +10,12 @@ The EatWell react native application is designed to showcase information about f
 2. **Install Dependencies:**
    ```bash
    npm i
-3. **Add your Api key and app id:**
+   
+3. **Change Directory:**
+   ```bash
+   cd EatWell
+   
+3. **Add your Api key and app id**
   
    
 4. **Run the server:**
